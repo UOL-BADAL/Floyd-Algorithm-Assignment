@@ -1,4 +1,4 @@
-📦 Floyd-Warshall Project
+📦 Floyd-Warshall-Project
  ┣ 📂 algorithms
  ┃ ┣ 📜 floyd_imperative.py
  ┃ ┣ 📜 floyd_itertools.py

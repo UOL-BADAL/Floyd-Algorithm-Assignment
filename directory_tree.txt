@@ -1,5 +1,5 @@
 📦 Floyd-Warshall-Project
- ┣ 📂 algorithms
+ ┣ 📂 floyd_algorithms
  ┃ ┣ 📜 floyd_imperative.py
  ┃ ┣ 📜 floyd_itertools.py
  ┃ ┗ 📜 floyd_recursive.py

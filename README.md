@@ -25,6 +25,18 @@ INF - Represents the infinite distance i.e the edges that don't exist.
 Numbers- The other values(7,5,8,2) represents the edge's weight, representing the direct path to theat node. 
 
 
+TEST 
+
+MEMORY PERFORMANCE TEST RESULTS:
+
+<img width="638" alt="Screenshot 2024-04-29 at 5 07 19 PM" src="https://github.com/UOL-BADAL/Floyd-Algorithm-Assignment/assets/167023997/3a28875b-65ca-4311-8304-1ca6cab71165">
+
+
+SPEED PERFORMANCE TEST RESULTS: 
+
+<img width="438" alt="Screenshot 2024-04-29 at 5 07 28 PM" src="https://github.com/UOL-BADAL/Floyd-Algorithm-Assignment/assets/167023997/839d2134-d158-4c70-b9b4-3a9ccafe1fde">
+
+
 
 License
 
